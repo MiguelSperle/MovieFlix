@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Miguel Sperle",
+      "email": "miguelsperle205@yahoo.com",
+      "password": "vasco2010",
+      "role": "Administrador"
+    },
+    {
+      "id": 2,
+      "name": "Marcelin",
+      "email": "marcelosperle205@yahoo.com",
+      "password": "1234567",
+      "role": "User"
+    }
+  ],
+  "Movies": [
+    {
+      "id": 1,
+      "nameMovie": "THE LAST OF US",
+      "category": "serie",
+      "image": "https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900",
+      "slug": "TheLastOfus",
+      "minutes": "1 Temporada",
+      "description": "Joel, um sobrevivente duro e cínico, e a jovem e impetuosa Ellie se conectam pela dificuldade do mundo em que vivem. Juntos, eles enfrentam circunstâncias brutais e monstros impiedosos durante uma difícil jornada pelos EUA após um surto apocalíptico."
+    },
+    {
+      "id": 2,
+      "nameMovie": "BREAKING BAD",
+      "category": "serie",
+      "image": "https://veja.abril.com.br/wp-content/uploads/2016/11/bbs5-cartaz1.jpg?quality=70&strip=all",
+      "slug": "BreakingBad",
+      "minutes": "5 Temporadas",
+      "description": "O professor de química Walter White não acredita que sua vida possa piorar ainda mais. Quando descobre que tem câncer terminal, Walter decide arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de metanfetamina."
+    },
+    {
+      "id": 3,
+      "nameMovie": "WANDINHA",
+      "category": "serie",
+      "image": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/09/24/1407004761-i633888.jpg",
+      "slug": "Wandinha",
+      "minutes": "1 Temporada",
+      "description": "Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos."
+    },
+    {
+      "id": 4,
+      "nameMovie": "SHAZAM 2",
+      "category": "movie",
+      "image": "https://br.web.img2.acsta.net/pictures/23/03/07/17/53/2916495.jpg",
+      "minutes": "2h10m",
+      "slug": "Shazam2",
+      "description": "Deuses antigos chegam à Terra em busca da magia roubada deles há muito tempo. Shazam e seus aliados são lançados em uma batalha por seus superpoderes, suas vidas e o destino do mundo."
+    },
+    {
+      "id": 5,
+      "nameMovie": "TOY STORY 4",
+      "category": "movie",
+      "image": "https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/toy-story-4/10062020/342/capa-toy-story-4.jpg",
+      "minutes": "1h40m",
+      "slug": "ToyStory4",
+      "description": "Woody, Buzz Lightyear e o resto da turma embarcam em uma viagem com Bonnie e um novo brinquedo chamado Forky. A aventura logo se transforma em uma reunião inesperada quando o ligeiro desvio que Woody faz o leva ao seu amigo há muito perdido, Bo Peep."
+    },
+    {
+      "id": 7,
+      "nameMovie": "AVATAR 2",
+      "category": "movie",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/poster-avatar-2-bra_96b8c77c.png",
+      "minutes": "3h12m",
+      "slug": "Avatar2",
+      "description": "Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos."
+    }
+  ]
+}
