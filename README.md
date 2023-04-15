@@ -7,3 +7,9 @@ and I made system of login and create account.
 # Portuguese
 Nesse projeto eu treinei meus conhecimento em TypeScript, como enviar método post e eu aprendi a usar a Lib REACT-HOOK-FORM e eu fiz um sistema de login e criação de conta.
 
+<h2>Build process</h2>
+  <ul>
+    <li>React</li>
+    <li>JSON Server</li>
+    <li>Styled Components</li>
+  </ul>
