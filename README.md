@@ -9,7 +9,7 @@ Nesse projeto eu treinei meus conhecimento em TypeScript, como enviar método po
 
 <h2>Build process</h2>
   <ul>
-    <li>React</li>
+    <li>React JS</li>
     <li>JSON Server</li>
     <li>Styled Components</li>
   </ul>
