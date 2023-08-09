@@ -15,8 +15,8 @@ Nesse projeto eu treinei meus conhecimento em TypeScript, como enviar método po
 </ul>
 
 <h2>Screenshots</h2>
-<div display="flex" width="100%" align="center">
-<img width=200 src="https://i.imgur.com/cNYdPWU.jpeg"/>
-<img width=200 src="https://i.imgur.com/h785BkO.png"/>
-<img width=200 src="https://i.imgur.com/hTX7q9Y.png"/>
+<div width="100%" align="center">
+<img src="https://i.imgur.com/cNYdPWU.jpeg"/>
+<img src="https://i.imgur.com/h785BkO.png"/>
+<img src="https://i.imgur.com/hTX7q9Y.png"/>
 </div>
