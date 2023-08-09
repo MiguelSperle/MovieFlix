@@ -1,5 +1,5 @@
 import { BrowserRouter as Router,  Routes, Route } from 'react-router-dom'
-import  Login  from "./components/layout/Login/index"; // component
+import Login from './pages/Login';
 import Inicio from './pages/inicio/index'; // page
 import  ContainerAccount  from './pages/newAccount/index'; // page
 import { GlobalStyle } from "./styles/GlobalStyles/GlobalStyle"; // style global

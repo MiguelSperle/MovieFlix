@@ -1,9 +1,9 @@
-import { LoginContainer } from '../Login/style'; 
+import { LoginContainer } from './style'; 
 import { Link, useNavigate } from 'react-router-dom'; 
 import {  toast } from 'react-toastify';
-import { api } from '../../../service/api';
+import { api } from '../../service/api';
 import { useEffect, useState } from 'react';
-import {  TypeTitleLogin, TypeDataForm } from '../../../interface/GlobalTypes';
+import {  TypeTitleLogin, TypeDataForm } from '../../interface/GlobalTypes';
 import {  useForm } from "react-hook-form";
 
 
@@ -52,14 +52,6 @@ export default function Login(props: TypeTitleLogin){
     }
     fetchUsers()
   },[])
-
-  const userLocalStorageName = JSON.parse(localStorage.getItem('dataUser') || '')
-
-  useEffect(() => {
-    if(userLocalStorageName){
-      navigate('/inicio')
-    }
-  }, [])
 
   function handleChangeCheckbox(e: React.ChangeEvent<HTMLInputElement>){
    setIsChecked(e.target.checked)

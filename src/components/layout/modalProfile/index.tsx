@@ -1,8 +1,10 @@
 import { ContainerProfile } from "./style";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 export default function Modal(){
-    
+
+    const navigate = useNavigate();
+
     const userLocalStorageName = JSON.parse(localStorage.getItem('dataUser') || '')
 
     function EmptyLocalStorage(){
